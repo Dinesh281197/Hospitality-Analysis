@@ -22,7 +22,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src=Dataset/mock-up dashboard_atliq grands.png>
+    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png' height="400">
 </p>
 
 
