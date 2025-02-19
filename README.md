@@ -1,6 +1,6 @@
 # Hospitality-Analysis- Power BI
 
-As part of the codebasics September month resume challenge, I have worked on this analysis project.
+As part of the codebasics September month resume challenge, I have worked on this Analysis project.
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/4)
 
@@ -36,31 +36,31 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Performance Overview
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Performance%20Overview.png'height="400">
+    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Performance%20Overview.png' height="400">
 </p>
 
 ## Revenue Analysis
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Revenue%20Analysis.png'width=600>
+    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Revenue%20Analysis.png' height="400">
 </p>
 
 ## Booking Analysis
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Booking%20Analysis.png'>
+    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Booking%20Analysis.png' height="400">
 </p>
 
 ## Learnt things from this Project 
-- By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
-- Tried using color palette and stick with that colors throughout the dashboard
+- By referring to different cancellation policies followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is canceled before three months of the booking date. If the booking is canceled after that, the charge range from 60 to 90% of the booking cost.
+- Tried using the color palette and stick with those colors throughout the dashboard
 
 ## Some Important insights from the Dashboard
 
-- Mumbai generates the highest revenue (660 M) followed by Bangalore, Hyderabad and Delhi.
-- property_id	"16559" AtliQ Exotica in mumbai performs better compared to all properties with 117 Million revenue, rating 4.3 , occupancy percentage 65.85 and cancellation rate as 24.63%.
+- Mumbai generates the highest revenue (660 M) followed by Bangalore, Hyderabad, and Delhi.
+- property_id	"16559" AtliQ Exotica in Mumbai performs better compared to all properties with 117 Million in revenue, a rating 4.3, an occupancy percentage of 65.85, and a cancellation rate of 24.63%.
 - Property_ID "16563" AtliQ Palace in Delhi has the highest occupancy of 66.25%.
-- Week 26 recorded the Lowest revenue among all, which is 114.15 Million.
-- On Weekdays and Weekends Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore.
+- Week 26 recorded the Lowest revenue among all, which was 114.15 Million.
+- On Weekdays and Weekends Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, and Bangalore.
 - AtliQ lost around 298 Million in cancellation 
-- Elite type rooms has the most booking % which 36.8 %
+- Elite-type rooms have the most bookings % which is 36.8 %
