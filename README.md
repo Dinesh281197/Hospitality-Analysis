@@ -65,4 +65,4 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - AtliQ lost around 298 Million in cancellation 
 - Elite-type rooms have the most bookings % which is 36.8 %
 - Created Key Metrics Heatmap for Booking Analysis.
-- Created A line chart to find the correlation between Occupancy % and Average rating.
+- Created A Scatter Plot chart to find the correlation between Occupancy % and Average rating.
