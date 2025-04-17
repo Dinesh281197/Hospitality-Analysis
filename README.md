@@ -1,6 +1,6 @@
 # Hospitality-Analysis- Power BI
 
-As part of the codebasics September month resume challenge, I have worked on this Analysis project.
+As part of the CodeBasics resume challenge 1, I have worked on this Analysis project.
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/4)
 
@@ -19,12 +19,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create the metrics according to the metric list. 
 - Create a dashboard according to the mock-up provided by stakeholders. 
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
-
-## Provided Mock-up Dashboard
-<p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png' height="400" width="600">
-</p>
-
 
 ## Data Model
 
