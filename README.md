@@ -13,6 +13,20 @@ AtliQ Grand is a renowned imaginary company with a chain of five-star hotels in 
 In this project, I acted as the service provider, utilizing Power BI to perform a detailed analysis of AtliQ Grand's data and generate valuable insights.
 
 ---
+
+## Approach
+
+- **Data Processing**:
+  - extracted data from CSV files
+  - learned and organized raw data using Power Query.
+- **Analysis**:
+  - Utilized Power BI for detailed analysis and interactive visualizations.
+- **Presentation**:
+  - Crafted an engaging video presentation.
+  - Aimed for clarity and precision in storytelling.
+
+---
+
 ## Key Deliverables
 
 ### Performance Overview
@@ -55,22 +69,6 @@ In this project, I acted as the service provider, utilizing Power BI to perform 
 
 ----
 
-## Approach
-
-- **Data Processing**:
-  - extracted data from CSV files
-  - learned and organized raw data using Power Query.
-- **Analysis**:
-  - Utilized Power BI for detailed analysis and interactive visualizations.
-- **Presentation**:
-  - Crafted an engaging video presentation.
-  - Aimed for clarity and precision in storytelling.
-  
-## Outcome
-
-  - Derived actionable insights and recommendations.
-  - Demonstrated capability in handling extensive datasets and presenting findings effectively.
-
 ## Key Learnings – Hospitality Domain
 
 Through this project, I gained valuable domain knowledge in the hospitality industry and got familiar with several key performance metrics used in hotel operations. Here are some of the important concepts I learned:
@@ -91,13 +89,13 @@ Through this project, I gained valuable domain knowledge in the hospitality indu
 
 - **Average Lead Time** – The average number of days between the booking date and the check-in date.
 
-I also understood how revenue trends differ between:
-
 - **Weekdays (Sunday to Thursday)** – Typically business-focused bookings.
 
 - **Weekends (Friday and Saturday)** – More leisure-focused bookings.
 
-- Referring to the different cancellation policies followed by different hotels, it can be understood that most hotels charge a zero fee only if the booking is canceled before three months of the booking date. If the booking is canceled after that, the charge ranges from 60 to 90% of the booking cost.
+- **cancellation policies** - Referring to the different cancellation policies followed by different hotels, it can be understood that most hotels charge a zero fee only if the booking is canceled before three months of the booking date. If the booking is canceled after that, the charge ranges from 60 to 90% of the booking cost.
 
+## Outcome
 
-
+  - Derived actionable insights and recommendations.
+  - Demonstrated capability in handling extensive datasets and presenting findings effectively.
