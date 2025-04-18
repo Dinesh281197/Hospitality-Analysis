@@ -48,6 +48,11 @@ In this project, I acted as the service provider, utilizing Power BI to perform 
     <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Data%20Model.png' height="400">
 </p>
 
+## Homepage
+
+<p align="center">
+    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/HOMEPAGE.png' height="400">
+</p>
 
 ## Performance Overview
 
@@ -58,13 +63,13 @@ In this project, I acted as the service provider, utilizing Power BI to perform 
 ## Revenue Analysis
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Revenue%20Analysis.png' height="400">
+    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Revenue_Analysis.png' height="400">
 </p>
 
 ## Booking Analysis
 
 <p align="center">
-    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Booking%20Analysis.png' height="400">
+    <img src='https://github.com/Dinesh281197/Hospitality-Analysis/blob/main/Report%20Screenshots/Booking_Analysis.png' height="400">
 </p>
 
 ----
