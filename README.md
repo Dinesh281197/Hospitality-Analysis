@@ -7,7 +7,7 @@ Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-projec
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGIzMGExZmQtN2I5MC00MGNmLWI2ZGMtOTQ1NzBhYzJmYmZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c46f8460e326e3dbb158)
 
 Link to [Presentation Video](https://www.youtube.com/watch?v=6hLneBL0TWQ)
-----
+
 ## Project Overview
 
 AtliQ Grand is a renowned imaginary company with a chain of five-star hotels in major cities across India, including Mumbai, Hyderabad, Delhi, and Bangalore. Despite its esteemed reputation, AtliQ Grand has experienced a decline in revenue and market share. To address this, the company sought assistance to analyze its data and provide actionable insights and recommendations.
