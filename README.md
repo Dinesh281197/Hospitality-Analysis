@@ -12,9 +12,9 @@ Link to [Presentation Video](https://www.youtube.com/watch?v=6hLneBL0TWQ)
 
 ## Project Overview
 
-AtliQ Grand is a renowned imaginary company with a chain of five-star hotels in major cities across India, including Mumbai, Hyderabad, Delhi, and Bangalore. Despite its esteemed reputation, AtliQ Grand has experienced a decline in revenue and market share. To address this, the company sought assistance to analyze its data and provide actionable insights and recommendations.
+AtliQ Grand is a renowned imaginary company with five-star hotels in major cities across India, including Mumbai, Hyderabad, Delhi, and Bangalore. Despite its esteemed reputation, AtliQ Grand has experienced a decline in revenue and market share. To address this, the company sought assistance to analyze its data and provide actionable insights and recommendations.
 
-In this project, I acted as the service provider, utilizing Power BI to perform a detailed analysis of AtliQ Grand's data and generate valuable insights.
+In this project, I acted as the service provider, utilizing Power BI to analyze AtliQ Grand's data in detail and generate valuable insights.
 
 ---
 
@@ -28,6 +28,18 @@ In this project, I acted as the service provider, utilizing Power BI to perform 
 - **Presentation**:
   - Crafted an engaging video presentation.
   - Aimed for clarity and precision in storytelling.
+  - 
+-----
+
+𝐎𝐮𝐭𝐜𝐨𝐦𝐞:
+
+💠 Through this project, I was able to identify key problems affecting the hotel’s revenue
+
+💠 I provided data-backed insights that can help the hotel chain
+improve room bookings and boost profits and customer focus.
+which can help the company regain market share and grow faster.
+
+💠 This project gave me real-world experience in using data to support business decisions in the hospitality industry.
 
 ---
 
@@ -103,8 +115,3 @@ Through this project, I gained valuable domain knowledge in the hospitality indu
 - **Weekends (Friday and Saturday)** – More leisure-focused bookings.
 
 - **cancellation policies** - Referring to the different cancellation policies followed by different hotels, it can be understood that most hotels charge a zero fee only if the booking is canceled before three months of the booking date. If the booking is canceled after that, the charge ranges from 60 to 90% of the booking cost.
-
-## Outcome
-
-  - Derived actionable insights and recommendations.
-  - Demonstrated capability in handling extensive datasets and presenting findings effectively.
