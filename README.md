@@ -8,6 +8,8 @@ Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGIzMGExZ
 
 Link to [Presentation Video](https://www.youtube.com/watch?v=6hLneBL0TWQ)
 
+----
+
 ## Project Overview
 
 AtliQ Grand is a renowned imaginary company with a chain of five-star hotels in major cities across India, including Mumbai, Hyderabad, Delhi, and Bangalore. Despite its esteemed reputation, AtliQ Grand has experienced a decline in revenue and market share. To address this, the company sought assistance to analyze its data and provide actionable insights and recommendations.
