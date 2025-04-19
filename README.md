@@ -21,25 +21,23 @@ In this project, I acted as the service provider, utilizing Power BI to analyze 
 ## Approach
 
 - **Data Processing**:
-  - extracted data from CSV files
+  - Extracted data from CSV files
   - learned and organized raw data using Power Query.
 - **Analysis**:
   - Utilized Power BI for detailed analysis and interactive visualizations.
 - **Presentation**:
   - Crafted an engaging video presentation.
   - Aimed for clarity and precision in storytelling.
-  - 
+
 -----
 
-𝐎𝐮𝐭𝐜𝐨𝐦𝐞:
+## Outcome
 
-💠 Through this project, I was able to identify key problems affecting the hotel’s revenue
+- Through this project, I was able to identify key problems affecting the hotel’s revenue
 
-💠 I provided data-backed insights that can help the hotel chain
-improve room bookings and boost profits and customer focus.
-which can help the company regain market share and grow faster.
+- I provided data-backed insights that can help the hotel chain improve room bookings and boost profits, and customer focus, which can help the company regain market share and grow faster.
 
-💠 This project gave me real-world experience in using data to support business decisions in the hospitality industry.
+- This project gave me real-world experience in using data to support business decisions in the hospitality industry.
 
 ---
 
